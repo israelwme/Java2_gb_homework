@@ -14,4 +14,5 @@ public class Wall implements Let {
     public float getSize() {
         return size;
     }
+
 }
