@@ -32,4 +32,5 @@ public class Cat implements Competitor {
             }
         }
     }
+
 }
